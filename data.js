@@ -4,7 +4,7 @@ const parcels = [
     mobile: "8148550423",
     name: "CHETHNA",
     parcelId: "GH814855",
-    project: "Handwriting Parcel",
+    project: "Hamper Box Parcel",
     courier: "GiftHub Delivery",
     dispatchLocation: "Tamil Nadu",
     route: "Delhi → Chennai",
